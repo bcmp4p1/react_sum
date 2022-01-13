@@ -1,2 +1,0 @@
-(this.webpackJsonpreact_sum=this.webpackJsonpreact_sum||[]).push([[0],{10:function(t,n,c){"use strict";c.r(n);c(1);var e=c(3),r=c.n(e),a=(c(8),c(0)),s=function(t){var n=t.a,c=t.b;return Object(a.jsx)("p",{children:"Sum of ".concat(n," and ").concat(c," is ").concat(n+c)})};s.defaultProps={a:0,b:0};var o=function(){return Object(a.jsx)(a.Fragment,{children:Object(a.jsx)(s,{})})};r.a.render(Object(a.jsx)(o,{}),document.getElementById("root"))},8:function(t,n,c){}},[[10,1,2]]]);
-//# sourceMappingURL=main.1d629605.chunk.js.map
